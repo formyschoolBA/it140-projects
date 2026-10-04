@@ -7,25 +7,24 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+Mystery and adventure inside the Maria Valentine Book Collection Museum. The player explores the museum to uncover the legendary Secret Collection.
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+The player enters the Maria Valentine Book Collection Museum in search of the legendary Secret Collection. To uncover it, the player must explore the museum and collect six Maria Valentine books hidden throughout the galleries. The player must collect all six books before entering the Secret Collection Vault, where a rival collector is waiting to steal the collection.
 
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+1. Museum Entrance
+2. Grace Gallery
+3. Faith Gallery
+4. Strength Gallery
+5. Peace Gallery
+6. Healing Gallery
+7. Self-Love Gallery
+8. Secret Collection Vault
 
 Add more rooms if your design needs them.
 
@@ -34,29 +33,29 @@ Add more rooms if your design needs them.
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. 365 Days of Grace & Strength
+2. When God Meets You in the Middle
+3. I Survived What Was Meant to Break Me
+4. There Is Power in Peace
+5. The Maria Valentine Healing & Self-Love Journal
+6. FAITH • HEALING • HOPE • SELF-LOVE: Four Parts. One Journey Back to You
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+The Rival Collector is determined to steal the legendary Secret Collection and claim the six Maria Valentine books.
 
 ## Storyboard and Map Check
 
 Before submitting, compare this storyboard with `game_map.drawio`.
 
-* [ ] I included eight (8) rooms.
-* [ ] I included six (6) collectable items.
-* [ ] The start room has no item.
-* [ ] The villain room has no item.
-* [ ] Every room except the start room and villain room contains one item.
+* [x] I included eight (8) rooms.
+* [x] I included six (6) collectable items.
+* [x] The start room has no item.
+* [x] The villain room has no item.
+* [x] Every room except the start room and villain room contains one item.
 * [ ] Room, item, and villain names match my map.
 * [ ] The map allows the player to collect all required items before the
   villain is encountered.
